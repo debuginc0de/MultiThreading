@@ -27,3 +27,10 @@
 //readlock vs writelock
 //Exceutor service
 //deadlock
+            /**
+             New – thread created
+            Runnable – eligible to run
+            Running – running
+            Blocked/Waiting – waiting for lock or signal
+            Terminated – finished
+             **/
