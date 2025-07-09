@@ -11,6 +11,11 @@
 //10. What is a thread pool?
 //11. What is the purpose of join() method?
 //12. What is the difference between Callable and Runnable?
+            //"Runnable is used when you don’t need a result,
+            // Callable is used when you want to return a result
+            // or handle exceptions from a task running in a separate thread."
+
+
 //13. What is ThreadLocal in Java?
 //14. What is the life cycle of a thread?**********
                 //multithreading
